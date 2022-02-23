@@ -2,7 +2,7 @@
 <!-- - 👀 I’m interested in: -->
 I’m interested in:
 ----------------------------------
-   - Java - Spring - Spring Boot - Hibernate - Microservices
+   - Java - Spring - Spring Boot - Hibernate - Spring Cloud
    - Python - Machine Learning - Computer Vision
    - TypeScript - Angular
 <!-- - 🌱 I’m currently learning ...
